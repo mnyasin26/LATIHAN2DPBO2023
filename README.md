@@ -17,7 +17,7 @@ Inheritance part 1
 
 Hubungan empat kelas di atas dijelaskan pada gambar berikut:
 
-![Desain Kelas]()
+![Desain Kelas](https://github.com/mnyasin26/LATIHAN2DPBO2023/blob/main/Desain%20Latihan%202.jpg)
 
 ## Alur Program
 1. Instansiasi kelas Mahasiswa sebanyak 3 buah dengan parameter dummy
